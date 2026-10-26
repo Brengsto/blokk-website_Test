@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 260 70" width="520" height="140" role="img" aria-label="BLOKK">
+  <title>BLOKK (für dunkle Hintergründe)</title>
+  <path fill="#FFFFFF" d="M0 0h10v50H0zM10 0h20v10H10zM10 20h20v10H10zM10 40h20v10H10zM30 10h10v10H30zM30 30h10v10H30zM50 0h10v50H50zM60 40h30v10H60zM150 0h10v50h-10zM160 20h10v10h-10zM170 10h10v10h-10zM180 0h10v10h-10zM170 30h10v10h-10zM180 40h10v10h-10zM200 0h10v50h-10zM210 20h10v10h-10zM220 10h10v10h-10zM230 0h10v10h-10zM220 30h10v10h-10zM230 40h10v10h-10z"/>
+  <path fill="#4A7BE0" fill-rule="evenodd" d="M100 0h40v50h-40zM112 14v22h16V14z"/>
+</svg>
